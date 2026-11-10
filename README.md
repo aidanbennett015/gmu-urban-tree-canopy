@@ -25,10 +25,10 @@ visualize its spatial distribution across campus.
 - Estimated tree canopy coverage: 40.0%
 
 ## Final Map
-![GMU Tree Canopy Map](images/gmu-tree-canopy-map.png)
+![GMU Tree Canopy Map](gmu-tree-canopy-map.png)
 
 ## Project Files
-[ArcGIS Pro Project](project/GMU_Tree_Canopy_Analysis.aprx)
+[ArcGIS Pro Project](GMU_Tree_Canopy_Analysis.aprx)
 
 ## Limitations
 The canopy estimate is based on 2021 geographic data
